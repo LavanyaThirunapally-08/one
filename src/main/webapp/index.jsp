@@ -602,7 +602,7 @@
         <!-- Deals -->
         <section id="deals" class="section container" aria-labelledby="deals-title">
             <div class="title" id="deals-title">
-                <h2>Flash Sale</h2>
+                <h1>Flash Sale</h1>
                 <p class="muted">Limited-time offers — don't miss out!</p>
             </div>
 
@@ -610,7 +610,7 @@
                 <emmg src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80" alt="Deal product">
                 <div class="content">
                     <h3>MacBook Air M2</h3>
-                    <p class="muted">Thin, light and powerful — now with M2 performance.</p>
+                    <p class="muted">Thin, light and powerful, now with M2 performance.</p>
 
                     <div class="timer" aria-hidden="false">
                         <div class="time-box">
@@ -619,7 +619,7 @@
                         </div>
                         <div class="time-box">
                             <div id="dealHours">00</div>
-                            <div style="font-size:12px;opacity:.85">Hours</div>
+                            <div style="font-size:20px;opacity:.85">Hours</div>
                         </div>
                         <div class="time-box">
                             <div id="dealMinutes">00</div>
