@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>New Wedding Collection — Premium Picks</h1>
+                <h1>Find Your Wedding Collection — Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
@@ -695,7 +695,7 @@
     <footer>
         <div class="container" style="display:flex;flex-wrap:wrap;gap:28px;align-items:flex-start;justify-content:space-between">
             <div style="max-width:360px">
-                <div style="font-weight:700;font-size:18px">NexusShop</div>
+                <div style="font-weight:900;font-size:20px">NexusShop</div>
                 <p class="muted" style="margin-top:8px">A modern e-commerce demo built with HTML, CSS & JavaScript.</p>
                 <div style="margin-top:14px;display:flex;gap:10px">
                     <a class="icon-btn" href="#" title="Facebook"><em class="fab fa-facebook"></em></a>
