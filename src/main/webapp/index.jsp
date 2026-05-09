@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="tel">
+<html lang="te-IN">
 
 <head>
     <meta charset="utf-8" />
