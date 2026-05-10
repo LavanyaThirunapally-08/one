@@ -682,7 +682,7 @@
         <section class="section container" aria-labelledby="news-title">
             <div class="newsletter" id="newsletter">
                 <h3 id="news-title">Stay in the loop</h3>
-                <p>Subscribe to get exclusive offers & new arrivals</p>
+                <h2>Subscribe to get exclusive offers & new arrivals<h2>
                 <form id="newsletterForm" style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap;" onsubmit="return false;">
                     <emnput id="newsletterEmail" type="email" placeholder="Enter your email" aria-label="Email address" required>
                     <button class="btn btn-primary" id="subscribeBtn">Subscribe</button>
